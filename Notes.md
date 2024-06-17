@@ -3,7 +3,7 @@
 
 Source control system
 
-	- Handles small and bug projects
+	- Handles small and big projects
 	- Branching and merging
 	racking changes in the source code, enabling multiple developers to work together on non-linear development
 	
