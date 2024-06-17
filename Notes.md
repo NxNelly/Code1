@@ -80,3 +80,39 @@ tracked files:
 untracked files:
 
 - does not keep history of commits
+
+how to:
+
+git update-index command - [git update-index --skip-worktree < file>]
+
+undo - [git update-index --no-skip-worktree < file>]
+
+Removing all untracked files:
+
+Steps to delete untracked Git files
+- Run git clean -n to see a dry run.
+- Run git clean -f to force untracked file deletion.
+- Use git clean -f -d to remove untracked directories.
+- Use git clean -f -x to remove untracked . gitignore files.
+- Add the -i switch to do an interactive git clean.
+
+## merge, rebase and squash
+
+__merge:__ putting a forked history back together again
+
+independent lines of development - integrate them into a single branch
+
+preserves history
+
+__rebase:__ changes the base of the developer's branch from one commit to another
+
+rewrites history - streamlining complex history
+
+dont use with teammates
+different parent notes
+
+__spuash:__ clean up and simplify your commit history
+
+before sharing your work with team
+
+adding commit chandes onto Parent commit
