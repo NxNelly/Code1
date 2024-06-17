@@ -43,11 +43,13 @@ Pictorial representation of git
 Code1 (Notes)
 Caffeine ++ (team)
 
+## Markdown:
+
 Create markdown page:
 
 	- Codename.md (automatically creates markdown)
 
-## Formating
+__Formating:__
 
 __bold text__
 
@@ -58,3 +60,5 @@ ___bold and cursive___
 tiefgestellt <sub>lalala
 
 hochgestellt <sup>lalala
+
+
