@@ -37,6 +37,12 @@ Checks code for common problems (syntax errors, formatting issues, code style vi
 Pictorial representation of git
  helpful to developer teams to share their Git branching strategies
 
+## Check for correct installation and version:
+	- Open console
+	- Type git --version. The result should be something like git version 2.34.1.
+	- Type node --version. The result should be something like v20.14.0.
+	- Type tsc --version. The result should be something like Version 4.5.4.
+
 
 
 ## Repositories: 
