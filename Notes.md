@@ -69,3 +69,14 @@ tiefgestellt <sub>lalala
 hochgestellt <sup>lalala
 
 
+## Other Git Things
+
+tracked files:
+
+- Files tracked by Git are aware of the changes or commits 
+- you can revert to previous versions of the file
+- on the list of tracked files
+
+untracked files:
+
+- does not keep history of commits
