@@ -4,7 +4,7 @@ Code1 (Notes)
 Caffeine ++ (team)
 
 Create markdown page:
-	- Codename.md ( automatically creates markdown)
+	- Codename.md (automatically creates markdown)
 
 __bold text__
 
