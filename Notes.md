@@ -37,6 +37,7 @@ Checks code for common problems (syntax errors, formatting issues, code style vi
 Pictorial representation of git
  helpful to developer teams to share their Git branching strategies
 
+![image](https://github.com/NxNelly/Code1/assets/173050947/43b45af5-b0b7-40d0-941b-5af35833c109)
 
 
 ## Repositories: 
