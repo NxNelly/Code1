@@ -1,9 +1,9 @@
-# Code 1 
+__Code__ 
 ## Git
 
 Source control system
 
-	- Handles small and big projects
+	- Handles small and bug projects
 	- Branching and merging
 	racking changes in the source code, enabling multiple developers to work together on non-linear development
 	
