@@ -48,8 +48,7 @@ Caffeine ++ (team)
 Create markdown page:
 
 	- Codename.md (automatically creates markdown)
-
-__Formating:__
+ ### Syntax
 
 __bold text__
 
