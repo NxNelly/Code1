@@ -1,5 +1,8 @@
-__Code__ 
+# Code
+
+### 17.06.24
 ## Git
+
 
 Source control system
 
@@ -116,3 +119,51 @@ __spuash:__ clean up and simplify your commit history
 before sharing your work with team
 
 adding commit chandes onto Parent commit
+
+## L01.5
+CLI (Command Line Interface)
+
+CVS (Concurrent Versioning System)
+
+### 18.06.24
+
+## HTML
+_(Hypertext Markup Language)_
+(L02.1)
+
+- markup tells a web browser how to display text, images and other forms of multimedia on a webpage
+
+Syntax:
+
+- structure of elements 
+
+Semantics:
+
+- information about the actual data structure behind the information
+
+- example, this means using heading tags instead of just changing the size
+
+first Browser [CERN](https://worldwideweb.cern.ch/)
+
+(L02.2)
+ 
+## create HTML file
+
+ correct structure:
+ - !
+ - [Enter]
+ ```javascript
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
+(L02.3)
+
