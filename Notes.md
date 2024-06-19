@@ -168,3 +168,21 @@ first Browser [CERN](https://worldwideweb.cern.ch/)
 (L02.3)
 
 ![Screenshot (3)](https://github.com/NxNelly/Code1/assets/173050947/92267a97-985b-4624-8da6-e96840fd3245)
+
+(L02.4)
+## Tags 
+Defines different type of content on a Webbrowser, using angle brackets (< >)
+
+[List of Tags](https://www.tutorialstonight.com/html-tags-list-with-examples?utm_content=cmp-true)
+
+- Basic tags (<!DOCTYPE>, html ...)
+- Formatting tags (b, strong, i...)
+- Image tags (img, figure...)
+- Link tags (a, link, nav )
+- List tags (ol, ul, li...)
+- Form and input tags ( form, input, label...)
+- Table tags (table, tread, tbody...)
+- Media tags (audio, video, track, source )
+- Meta tags (non visible information - meta, link)
+- style and programming tags (style, programming)
+- general tags (div, span, header ...)
